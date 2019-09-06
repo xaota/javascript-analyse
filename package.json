@@ -1,0 +1,32 @@
+{
+  "name": "javascript-analyse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "description": "мета-информация о сериях данных",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "javascript-std-lib": "latest"
+  },
+  "devDependencies": {
+    "eslint": "^6.3.0",
+    "babel-eslint": "^10.0.2"
+  },
+  "license": "Unlicense",
+  "author": "https://github.com/xaota",
+  "homepage": "https://github.com/xaota/javascript-analyse#readme",
+  "keywords": [
+    "javascript",
+    "analyse",
+    "data-series"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xaota/javascript-analyse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xaota/javascript-analyse/issues"
+  }
+}
